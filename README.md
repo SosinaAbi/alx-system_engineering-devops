@@ -1,1 +1,1 @@
-readme in repository
+readme in shell basics
