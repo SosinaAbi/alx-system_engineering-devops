@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'ibase=10; obase=16; $DECIMAL' | bc
+bconvert.sh -i 10 -o 16 $DECIMAL
